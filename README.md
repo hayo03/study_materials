@@ -1,4 +1,8 @@
-# study_materials
+# Study_materials
+This repository includes a Dialogflow agent named "Studyagent.zip" and Annex A that describe the intents that this agent contains:
+
+#Annex A-Description of intents : 
+
 | Intent           |Description of intents |Required slots  | 
 |:-------------:|:-----:|:-----:|
 | ReserveRoundtripFlights |Search for round-trip flights to the destination of choice and  return a set of available offers |-	originLocation <br/> -	destinationLocation <br/> -	departureDate <br/> -	returnDate <br/> -	number of travelers | 
