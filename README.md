@@ -16,5 +16,5 @@ This repository includes a Dialogflow agent named "Studyagent.zip" and Annex A t
 | SendMsg |Send a message to friends| -	Message <br/> -	Recipient| 
 
 ## Video: 
-This video demonstrates the steps to create an agent, restore from exiting one, and share it with us by entreing this email "brabra.hayeet@gmail.com" and add us Reviewer. 
+This video demonstrates the steps to create an agent, restore from exiting one, and share it with me by entreing this email "brabra.hayeet@gmail.com" and add me as Reviewer. 
 
