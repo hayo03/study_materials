@@ -10,7 +10,7 @@ This repository includes a Dialogflow agent named "Studyagent.zip" and Annex A t
 | ReserveCar |Reserve a car  and return a confirmation message| -	pickup_city <br/> -	pickup_date <br/> -	pickup_time <br/> -	dropoff_date|
 | GetWeather  |provides current conditions and forecasts for a given location| - Location | -	Weather description |
 | SearchBusiness |returns details about a restaurants:  restaurant name , phone number , address, Business id| - type of food <br/> - location|
-| BookTaxi | book a taxi to a destination of choice|-	dropoffCity <br/> -	pickupCity <br/> -	pickupDate <br/> -	pickupTime|
+| BookTaxi | book a taxi to a destination of choice|-	dropoffAddress <br/> -	pickupAddress <br/> -	pickupDate <br/> -	pickupTime|
 | SearchCinema | Search for cinemas in a given location|-	Location | 
 | MakePayment | Send money to friends| -	amount <br/> -	receiver|
 | SendMsg |Send a message to friends| -	Message <br/> -	Recipient| 
