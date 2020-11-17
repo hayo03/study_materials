@@ -5,8 +5,8 @@ This repository includes a Dialogflow agent named "Studyagent.zip" and Annex A t
 
 | Intent           |Description of intents |Required slots  | 
 |:-------------:|:-----:|:-----:|
-| ReserveRoundtripFlights |Search for round-trip flights to the destination of choice and  return a set of available offers |-	originLocation <br/> -	destinationLocation <br/> -	departureDate <br/> -	returnDate <br/> -	number of travelers | 
-| SearchHotel |Search for hotels and return a set of available offers.| -	CheckInDate <br/> -	CheckoutDate <br/> -	City| 
+| ReserveRoundtripFlights |Book a round-trip flight to the destination of choice and  return a confirmation message |-	originLocation <br/> -	destinationLocation <br/> -	departureDate <br/> -	returnDate | 
+| ReserveHotel |Book a hotel and return a confirmation message.| -	CheckInDate <br/> -	CheckoutDate <br/> -	City| 
 | ReserveCar |Reserve a car  and return a confirmation message| -	pickup_city <br/> -	pickup_date <br/> -	pickup_time <br/> -	dropoff_date|
 | GetWeather  |provides current conditions and forecasts for a given location| - Location | -	Weather description |
 | SearchBusiness |returns details about a restaurants:  restaurant name , phone number , address, Business id| - type of food <br/> - location|
